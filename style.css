@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  padding-top: 50px;
+}
+h1 {
+  font-size: 48px;
+  letter-spacing: 6px;
+}
+button {
+  background-color: #ff2ec8;
+  color: black;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+img {
+  margin-top: 20px;
+  border: 2px solid white;
+}
